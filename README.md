@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Name </h1>
+<p align="left">Ishi Kent DC. Martinez </p>
 
-<!--
-**ishikentmartinez18/ishikentmartinez18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Education </h2>
+<p align="left">BS Information Technology - New Era University </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Certifications </h2>
+<p align="left"></p>
+
+<h3 align="left">Skillsets </h3>
+<p  align="left">Github </p>
+<p  align="left">Web Development </p>
+<p  align="left">Database Management (SQL) </p>
+
+<h4 align="left">Programming Languages </h4>
+<p  align="left">HTML </p>
+<p  align="left">SQL </p>
+<p  align="left">Java </p>
+<p  align="left">C++ </p>
+<p  align="left">CSS </p>
