@@ -6,7 +6,7 @@
 
 
 <h2 align="left">Certifications </h2>
-<a href= "(https://courses.cognitiveclass.ai/certificates/153f2c67a36c413fb20db44207c805e4)"> SQL and Relational Databases 101 </a>
+<a href= "https://courses.cognitiveclass.ai/certificates/153f2c67a36c413fb20db44207c805e4"> SQL and Relational Databases 101 </a>
 
 <h3 align="left">Skillsets </h3>
 <p  align="left">Github </p>
