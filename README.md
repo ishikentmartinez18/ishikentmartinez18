@@ -7,6 +7,7 @@
 
 <h2 align="left">Certifications </h2>
 <a href= "https://courses.cognitiveclass.ai/certificates/153f2c67a36c413fb20db44207c805e4"> SQL and Relational Databases 101 </a>
+<a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=1C6D43527F35F3A104A6C93C7589C7635167E0387590784D1BB30BB93ACBFDE9"> Foundations Associate </a>
 
 <h3 align="left">Skillsets </h3>
 <p  align="left">Github </p>
