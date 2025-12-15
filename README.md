@@ -9,6 +9,7 @@
 <a href= "https://courses.cognitiveclass.ai/certificates/153f2c67a36c413fb20db44207c805e4"> SQL and Relational Databases 101 </a>
 
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=1C6D43527F35F3A104A6C93C7589C7635167E0387590784D1BB30BB93ACBFDE9"> Cloud Infrastructure Foundations Associate </a>
+
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8D6D172AA766051573E79AC08F3EDFB7E334F187933D6C1546E7B3F7045F7CA"> Oracle Data Platform Foundations Associate </a>
 
 
