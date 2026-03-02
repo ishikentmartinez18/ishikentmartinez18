@@ -15,8 +15,8 @@
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=68F2DA7ECEE3EF18EE454DF18DACDBDD9D26144699F6D010AC3025D89E392CF4"> Oracle OCI AI Foundations Associate </a>
 
 <h2 align="left">Personal Project </h2>
-<a href= "file:///C:/Users/ADMIN/Desktop/admin.html"> Admin Portal </a>
-<a href= "file:///C:/Users/ADMIN/Desktop/index.html"> Visitor Log Portal </a>
+<a href= "https:///C:/Users/ADMIN/Desktop/admin.html"> Admin Portal </a>
+<a href= "https:///C:/Users/ADMIN/Desktop/index.html"> Visitor Log Portal </a>
 
 
 <h3 align="left">Skillsets </h3>
