@@ -14,6 +14,8 @@
 
 <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=68F2DA7ECEE3EF18EE454DF18DACDBDD9D26144699F6D010AC3025D89E392CF4"> Oracle OCI AI Foundations Associate </a>
 
+<a href= "https://courses.cognitiveclass.ai/certificates/035a5fde96674d39af31837ad6707c1a#"> NoSQL and DBaaS 101 </a>
+
 <h3 align="left">Skillsets </h3>
 <p  align="left">Github </p>
 <p  align="left">Web Development </p>
