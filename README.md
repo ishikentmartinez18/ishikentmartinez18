@@ -21,12 +21,13 @@
 <p  align="left">Web Development </p>
 <p  align="left">Database Management (SQL) </p>
 
-<h4 align="left">Programming Languages </h4>
-<p  align="left">HTML </p>
-<p  align="left">SQL </p>
-<p  align="left">Java </p>
-<p  align="left">C++ </p>
-<p  align="left">CSS </p>
+<h3 align="left">Skill Sets </h3>
+
+<p align="left">Programming: Java, JavaScript </p>
+
+<p align="left">Databases: IBM DB2 Cloud </p>
+
+<p align="left">Tools: Lucidchart, Jaspersoft Studio, Eclipse, HTML </p>
 
 <h5 align="left">You may reach me at </h5>
 <p align="left">
