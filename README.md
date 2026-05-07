@@ -16,10 +16,6 @@
 
 <a href= "https://courses.cognitiveclass.ai/certificates/035a5fde96674d39af31837ad6707c1a#"> NoSQL and DBaaS 101 </a>
 
-<h3 align="left">Skillsets </h3>
-<p  align="left">Github </p>
-<p  align="left">Web Development </p>
-<p  align="left">Database Management (SQL) </p>
 
 <h3 align="left">Skill Sets </h3>
 
