@@ -1,9 +1,16 @@
-<h1 align="left">Name </h1>
-<p align="left">Ishi Kent DC. Martinez </p>
+<h2 align="left">About Me </h2>
+
+<p align="left">
+I am Ishi Kent Dela Cruz Martinez, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+</p>
 
 <h2 align="left">Education </h2>
-<p align="left">BS Information Technology - New Era University </p>
 
+<p align="left">
+BS Information Technology<br>
+New Era University<br>
+2024 - Present
+</p>
 
 <h2 align="left">Certifications </h2>
 <a href= "https://courses.cognitiveclass.ai/certificates/153f2c67a36c413fb20db44207c805e4"> SQL and Relational Databases 101 </a>
