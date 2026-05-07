@@ -27,3 +27,8 @@
 <p  align="left">Java </p>
 <p  align="left">C++ </p>
 <p  align="left">CSS </p>
+
+<h5 align="left">You may reach me at </h5>
+<p align="left">
+Email: <a href="mailto:ishikentmartinez@gmail.com">ishikentmartinez@gmail.com</a>
+</p>
